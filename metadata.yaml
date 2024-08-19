@@ -1,5 +1,8 @@
 _repo: Millions-of-cats_74181
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74181-h/images/i_inner_cover.jpg
 creator:
   author:
     agent_name: Gág, Wanda
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57316
     wikipedia: https://en.wikipedia.org/wiki/Wanda_G%C3%A1g
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74181#Millions-of-cats
 gutenberg_issued: '2024-08-03'
 gutenberg_type: Text
 identifiers:
